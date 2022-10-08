@@ -3,7 +3,7 @@ This repository consists of all the classic games that we loved to play. The gam
 <hr>
 
 ### **Tic tac toe**
+Tic tac toe in command line. You can currently play player vs player game and later I will also add player vs computer.
 
-
-
+https://youtube.com/shorts/bM5gjWP5wis?feature=share
 
